@@ -8,4 +8,4 @@ class HelloWorld:
 
     def run(self):
         contents = self._load_file()
-        return contents.replace("_", " ")
+        return contents
